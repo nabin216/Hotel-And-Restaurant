@@ -1,4 +1,5 @@
 # Uttara Hotel and Restaurant Website
+https://uttarahotelandresturant.netlify.app/
 
 A modern, responsive website for Uttara Hotel and Restaurant built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
